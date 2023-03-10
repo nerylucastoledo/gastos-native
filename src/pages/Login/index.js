@@ -14,7 +14,7 @@ export default function Login({ navigation }) {
 
   return (
     <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
-      <View style={styles.container}>
+      <View>
       <View style={styles.content}>
         <Image style={styles.logo} source={require('../../img/icon.png')} alt={'Icone do app'}/>
       </View>
