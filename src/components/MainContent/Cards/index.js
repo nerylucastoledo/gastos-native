@@ -32,14 +32,14 @@ export default function index() {
 const styles = StyleSheet.create({
     container: {
         maxHeight: 130,
-        marginBottom: 24,
+        marginBottom: 16,
     },
 
     card: {
         backgroundColor: '#612F74',
         borderRadius: 20,
-        height: 130,
-        marginRight: 24
+        height: 110,
+        marginRight: 16
     },
 
     contentCard: {
